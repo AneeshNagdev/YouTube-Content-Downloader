@@ -1,0 +1,3 @@
+# run the command(s): pip install -r requirements.txt
+
+yt_dlp
